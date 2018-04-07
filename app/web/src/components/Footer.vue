@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Azure Lover Kubernetes
+        Microsoft loves kubernetes
       </div>
       <div class="col-lg-6">
       </div>
