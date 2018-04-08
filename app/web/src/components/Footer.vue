@@ -14,7 +14,7 @@
       <div class="col-lg-6">
       </div>
       <div class="col-lg-12 credits">
-        Microsoft loves kubernetes
+        Kubernetes and MS sitting in trees
       </div>
       <div class="col-lg-6">
       </div>
